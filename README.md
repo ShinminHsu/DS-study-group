@@ -1,5 +1,7 @@
 # DS-study-group
 
+Author: Shinmin Hsu
+
 ## 讀書會架構（暫定）
 
 - 人數：9 人
