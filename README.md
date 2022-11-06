@@ -1,5 +1,12 @@
 # DS-study-group
 
+## How to use this repo?
+
+To see works from each contributor, please navigate to the branches as shown below:
+- Shinmin Hsu: `shinmin_hsu`
+
+If you also want to be one of the contributors, feel free to contact me via email (shinminhsu@gmail.com).
+
 ## 讀書會架構（暫定）
 
 - 人數：9 人
@@ -10,7 +17,9 @@
 - 讀書會形式
   - 內容：以 Data Science Take-home Challenges 這本書為主，內容可參考這份 [repo](https://github.com/githubjasmine/DS-A_Collection_of_Take_Home_Challenges)
   - 每次讀書會前都需要繳交作業至 github，在自己的 branch 上編輯，並發 PR
+  - 請**不要**上傳資料集到這份 repo
   - 輪流分享作業，每次排定 4-5 人 花 10 - 15 分鐘說明作業
+  - 若有任何建議回饋，隨時歡迎利用這份匿名[表單](https://forms.gle/AioXUcozgYs8LV1K8)
 
 - 作業格式
   - Python or R 的 ipynb notebook
