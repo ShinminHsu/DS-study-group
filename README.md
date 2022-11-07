@@ -3,7 +3,14 @@
 ## How to use this repo?
 
 To see works from each contributor, please navigate to the branches as shown below:
-- Shinmin Hsu: `shinmin_hsu`
+- Shin-Min Hsu: `shinmin_hsu`
+- Ting-Yu Lin: `tylin30`
+
+## How to submit Homework?
+
+1. Fork this repo
+2. Edit your own repo
+3. Create PR to your branch
 
 If you also want to be one of the contributors, feel free to contact me via email (shinminhsu@gmail.com).
 
