@@ -3,14 +3,14 @@
 ## How to use this repo?
 
 To see works from each contributor, please navigate to the branches as shown below:
-- Shin-Min Hsu: `shinmin_hsu`
-- Ting-Yu Lin: `tylin30`
+- Shin-Min Hsu (https://github.com/ShinminHsu/): `shinmin_hsu` 
+- Ting-Yu Lin (https://github.com/tylin30): `tylin30`
 
 ## How to submit Homework?
 
-1. Fork this repo
-2. Edit your own repo
-3. Create PR to your branch
+1. Fork this repo.
+2. Edit your own repo.
+3. Create PR to your branch on this repo. Title format example: `[01] Conversion Rate - Shinmin Hsu`
 
 If you also want to be one of the contributors, feel free to contact me via email (shinminhsu@gmail.com).
 
