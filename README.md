@@ -5,6 +5,10 @@
 To see works from each contributor, please navigate to the branches as shown below:
 - Shin-Min Hsu (https://github.com/ShinminHsu/): `shinmin_hsu` 
 - Ting-Yu Lin (https://github.com/tylin30): `tylin30`
+- Tony Gu (https://github.com/gutangyu): `tony_gu`
+- Jun-Shan Lai (https://github.com/Jun-ShanLai): `junshan_lai`
+- Yu-Cheng Hsu (https://github.com/YuChengHSU): `YCH`
+- Bo-Ru Yang (https://github.com/boruyang): `boru_yang`
 
 ## How to submit Homework?
 
