@@ -1,4 +1,4 @@
-# DS-study-group
+# Test
 
 ## How to use this repo?
 
