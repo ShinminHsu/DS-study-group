@@ -1,4 +1,4 @@
-# DS-study-group
+# DS-study-group - Dean
 
 ## How to use this repo?
 
