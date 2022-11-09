@@ -28,7 +28,7 @@ Spanish Translation A/B Test
 - Bo-Ru Yang
 - Sharon
 - Frank Hung
-- Liu
+- Dean
 
 ## 03. Dec 21th 2022
 
@@ -51,4 +51,4 @@ Identifying Fraudulent Activities
 - Bo-Ru Yang
 - Sharon
 - Frank Hung
-- Liu
+- Dean
