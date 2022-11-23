@@ -1,0 +1,4 @@
+venv/
+*/*.csv
+*/__pycache__
+01_conversion_rate/conversion_rate.py
