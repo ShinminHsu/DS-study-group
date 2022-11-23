@@ -42,6 +42,8 @@ Employee Retention
 - Jun-Shan Lai
 - Yu-Cheng Hsu
 
+Take a leave: Sharon
+
 ## 04. Jan 11th 2023
 
 ### Subject
@@ -52,3 +54,19 @@ Identifying Fraudulent Activities
 - Sharon
 - Frank Hung
 - Dean
+
+---
+
+# Meetup Record
+
+| People | 00 | 01 meetup | 01 HW | 02 meetup | 02 HW | 03 meetup | 03 HW | 04 meetup | 04 HW | 05 meetup | 05 HW |  
+|--|--|--|--|--|--|--|--|--|--|--|--|
+| Shin-Min Hsu | v | v | v | 
+| Ting-Yu Lin | v | v | v | 
+| Tony Gu | v | v | v | 
+| Jun-Shan Lai | v | v | v | 
+| Yu-Cheng Hsu | v | v | v | 
+| Bo-Ru Yang | v | v | v | 
+| Sharon | v | v | v | 
+| Frank Hung | v |  |  |
+| Dean | v | v | v |
