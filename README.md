@@ -9,6 +9,9 @@ To see works from each contributor, please navigate to the branches as shown bel
 - Jun-Shan Lai (https://github.com/Jun-ShanLai): `junshan_lai`
 - Yu-Cheng Hsu (https://github.com/YuChengHSU): `YCH`
 - Bo-Ru Yang (https://github.com/boruyang): `boru_yang`
+- Dean Liu (https://github.com/m340668): `Dean`
+- Frank Hung (https://github.com/frankkhung): `frankkhung`
+- Sharon (https://github.com/shiuanC): `Sharon`
 
 ## How to submit Homework?
 
