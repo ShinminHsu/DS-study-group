@@ -10,7 +10,6 @@ To see works from each contributor, please navigate to the branches as shown bel
 - Yu-Cheng Hsu (https://github.com/YuChengHSU): `YCH`
 - Bo-Ru Yang (https://github.com/boruyang): `boru_yang`
 - Dean Liu (https://github.com/m340668): `Dean`
-- Frank Hung (https://github.com/frankkhung): `frankkhung`
 - Sharon (https://github.com/shiuanC): `Sharon`
 
 ## How to submit Homework?
@@ -21,9 +20,9 @@ To see works from each contributor, please navigate to the branches as shown bel
 
 If you also want to be one of the contributors, feel free to contact me via email (shinminhsu@gmail.com).
 
-## 讀書會架構（暫定）
+## 讀書會架構
 
-- 人數：9 人
+- 人數：8 人
 
 - 形式：線上討論為主
   - 如果大家方便，之後也可以約實體聚餐！
