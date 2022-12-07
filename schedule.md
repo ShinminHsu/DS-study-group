@@ -27,7 +27,6 @@ Spanish Translation A/B Test
 ### Speakers
 - Bo-Ru Yang
 - Sharon
-- Frank Hung
 - Dean
 
 ## 03. Dec 21th 2022
@@ -36,11 +35,10 @@ Spanish Translation A/B Test
 Employee Retention
 
 ### Speakers
-- Shin-Min Hsu
-- Ting-Yu Lin
-- Tony Gu
-- Jun-Shan Lai
 - Yu-Cheng Hsu
+- Jun-Shan Lai
+- Tony Gu
+- Ting-Yu Lin
 
 Take a leave: Sharon
 
@@ -52,7 +50,7 @@ Identifying Fraudulent Activities
 ### Speakers
 - Bo-Ru Yang
 - Sharon
-- Frank Hung
+- Shin-Min Hsu
 - Dean
 
 ---
@@ -68,5 +66,4 @@ Identifying Fraudulent Activities
 | Yu-Cheng Hsu | v | v | v | 
 | Bo-Ru Yang | v | v | v | 
 | Sharon | v | v | v | 
-| Frank Hung | v |  |  |
 | Dean | v | v | v |
