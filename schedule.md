@@ -35,10 +35,10 @@ Spanish Translation A/B Test
 Employee Retention
 
 ### Speakers
-- Yu-Cheng Hsu
 - Jun-Shan Lai
 - Tony Gu
 - Ting-Yu Lin
+- Shin-Min Hsu
 
 Take a leave: Sharon
 
@@ -48,10 +48,11 @@ Take a leave: Sharon
 Identifying Fraudulent Activities
 
 ### Speakers
+- Yu-Cheng Hsu
+- Dean
 - Bo-Ru Yang
 - Sharon
-- Shin-Min Hsu
-- Dean
+
 
 ---
 
