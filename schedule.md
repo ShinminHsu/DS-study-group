@@ -60,11 +60,11 @@ Identifying Fraudulent Activities
 
 | People | 00 | 01 meetup | 01 HW | 02 meetup | 02 HW | 03 meetup | 03 HW | 04 meetup | 04 HW | 05 meetup | 05 HW |  
 |--|--|--|--|--|--|--|--|--|--|--|--|
-| Shin-Min Hsu | v | v | v | 
-| Ting-Yu Lin | v | v | v | 
-| Tony Gu | v | v | v | 
-| Jun-Shan Lai | v | v | v | 
-| Yu-Cheng Hsu | v | v | v | 
-| Bo-Ru Yang | v | v | v | 
-| Sharon | v | v | v | 
-| Dean | v | v | v |
+| Shin-Min Hsu | v | v | v | v | v |
+| Ting-Yu Lin | v | v | v | v | v |
+| Tony Gu | v | v | v | v | v |
+| Jun-Shan Lai | v | v | v | x | x |
+| Yu-Cheng Hsu | v | v | v | v | x |
+| Bo-Ru Yang | v | v | v | v | v |
+| Sharon | v | v | v | x | x |
+| Dean | v | v | v | v | v |
